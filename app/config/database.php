@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'database',
+			'database'  => 'clubberzone',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
@@ -115,7 +115,7 @@ return array(
 
 		'default' => array(
 			'host'     => '127.0.0.1',
-			'port'     => 6379,
+			'port'     => 8888,
 			'database' => 0,
 		),
 
