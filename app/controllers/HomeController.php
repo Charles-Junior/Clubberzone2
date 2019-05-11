@@ -61,5 +61,5 @@ class HomeController extends BaseController {
 	    );
 	    return Redirect::to('party/'.Input::get('id_party'));
     }
-
+//test
 }
